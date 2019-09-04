@@ -32,7 +32,7 @@ export function GetPlayListItemsFromArtistSuccess(PlayLists){
 export function GETRequest(musician = "",type="") {
   let url = "https://api.spotify.com/v1/search?q=" + musician + "&type="+type;
   const auth_token =
-   "BQBJtkZcMFApzkXthZu9XEjHN6_9-FK6_h45uOniWqV1qnoVyEYqjMvihNR6WleWJSyOCcD_U6rf0VpHr0De2RBOkuGcFAYdsNlffbiiDYD1otbOX5l0oLBqRyrAIxNANlQMifY38DPiBu5hbFr9GjrkNoGeobXlXHTPKpV_I6Rl-oJPcB-s"
+   " " //You should take your access token from back-end system(NodeJS)
 
   const config = {
     headers: {
