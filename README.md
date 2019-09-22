@@ -11,7 +11,7 @@ npm install redux
 ...**
 
 **React uygulaması oluştuktan sonra terminal üzerinden oluşturulan react uygulama dosyasına erişmeniz gerekir bunun için de :D
-cd spotify-react **
+cd spotify-react**
 
 **cd spotify-react denmediğinde npm install dendiğinde paket kurulumlar ve uygulamanız çalışması gereken yapı uygulamamıza ait olmayan kısma yüklenmiş olur :D**
 
